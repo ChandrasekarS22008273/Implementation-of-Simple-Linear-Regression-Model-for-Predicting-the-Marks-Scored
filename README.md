@@ -64,13 +64,13 @@ print("RMSE : ",rmse)
 ```
 
 ## Output:
-![image](https://github.com/DEEPAK2200233/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707676/cdb652c8-5ce4-4395-afc1-8d8d25368256)
+![image](https://github.com/ChandrasekarS22008273/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119643845/965c988b-df2c-4e01-8404-9a560d273798)
 
-![image](https://github.com/DEEPAK2200233/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707676/c1f1fea0-1955-4681-820c-900f1d22d84f)
+![image](https://github.com/ChandrasekarS22008273/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119643845/0ceb8251-13b8-4ee5-9021-319dfbe9c8c3)
 
-![image](https://github.com/DEEPAK2200233/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707676/724ff1eb-4571-4d66-9f8a-f92289e579e6)
+![image](https://github.com/ChandrasekarS22008273/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119643845/e414c05e-20ac-41a1-9aa1-752613adf957)
 
-![image](https://github.com/DEEPAK2200233/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118707676/4ec8381b-e8d7-401d-91b0-325a982123a4)
+![image](https://github.com/ChandrasekarS22008273/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119643845/ce293a7f-9179-47dc-b7b7-1d625ccde39c)
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
