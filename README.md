@@ -66,7 +66,11 @@ print("RMSE : ",rmse)
 ## Output:
 ![image](https://github.com/ChandrasekarS22008273/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119643845/965c988b-df2c-4e01-8404-9a560d273798)
 
+## Training set
+
 ![image](https://github.com/ChandrasekarS22008273/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119643845/0ceb8251-13b8-4ee5-9021-319dfbe9c8c3)
+
+## Testing set
 
 ![image](https://github.com/ChandrasekarS22008273/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119643845/e414c05e-20ac-41a1-9aa1-752613adf957)
 
